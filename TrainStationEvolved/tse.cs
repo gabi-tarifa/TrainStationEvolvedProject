@@ -1,39 +1,19 @@
 using System.Console;
-namespace TrainStationEvolved
+using TrainStationEvolved;
+
 {
-    public class Train
-    {
-        private string name;
-        private int power;
-        private bool inUse = false;
-        private string type;
-        private string sprite;
-    }
+    Train train1 = new Train(name = "LNER A1 PEPPERCORN", 9, "steam", "edede");
 
-    public class Material
-    {
-        private string name;
-        private int quantity;
-    }
+    Material wood = new RawMaterial("Wood");
+    Material coal = new RawMaterial("Coal");
+    Material ironOre = new RawMaterial("Iron Ore");
 
-    public class RawMaterial:Material 
-    {
-        private string name;
-        private int quantity;
+    Material nails = new FactoryMaterial("Nails");
 
-    }
+    train1.UseTrain();
 
-    public class FactoryMaterial:Material
-    {
-        private string name;
-        private int quantity;
-        private Material materialProduciton;
+    train1.UseTrain();
 
-    }
 
-    public class Wagon
-    {
-        private string nickname;
-        private int profit;
-    }
+    
 }
