@@ -1,6 +1,7 @@
 using System.Console;
-using TrainStationEvolved;
+using TrainStationEvolved.Models;
 
+static void main (string[] args)
 {
     Train train1 = new Train(name = "LNER A1 PEPPERCORN", 9, "steam", "edede");
 
@@ -11,7 +12,6 @@ using TrainStationEvolved;
     Material nails = new FactoryMaterial("Nails");
 
     train1.UseTrain();
-
     train1.UseTrain();
 
 
