@@ -1,7 +1,16 @@
-namespace TrainStationEvolved;
+
+namespace TrainStationEvolved
+{
 
     public class Wagon
     {
-        private string nickname;
-        private int profit;
+        private string Nickname;
+        private int Profit;
+
+        public Wagon(string Nickname, int Profit){
+            this.Nickname = Nickname;
+            this.Profit = Profit;
+        }
+
     }
+}

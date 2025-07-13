@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\bin\Debug\net9.0\TrainStationEvolved.exe
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\bin\Debug\net9.0\TrainStationEvolved.deps.json
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\bin\Debug\net9.0\TrainStationEvolved.runtimeconfig.json
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\bin\Debug\net9.0\TrainStationEvolved.dll
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\bin\Debug\net9.0\TrainStationEvolved.pdb
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\TrainStationEvolved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\TrainStationEvolved.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\TrainStationEvolved.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\TrainStationEvolved.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\TrainStationEvolved.dll
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\refint\TrainStationEvolved.dll
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\TrainStationEvolved.pdb
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\TrainStationEvolved.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Gabriel\TrainStationEvolved\TrainStationEvolved\obj\Debug\net9.0\ref\TrainStationEvolved.dll

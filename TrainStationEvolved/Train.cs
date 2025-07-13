@@ -1,34 +1,32 @@
-using System.Console;
+using System;
 
-namespace TrainStationEvolved;
+namespace TrainStationEvolved{
 
-public class Train
-{
-    private string Name { get; set; }
-    private int Power { get; set; }
-    private string Type { get; set; }
-    private string Sprite { get; set; }
-    private bool InUse { get; set; } = false;
-
-    public Train(string name, int power, string type, string sprite)
+    public class Train
     {
-        name = this.Name;
-        power = this.Power;
-        type = this.Type;
-        sprite = this.Sprite;
-    }
+        private string Name { get; set; }
+        private int Power { get; set; }
+        private string Type { get; set; }
+        private string Link { get; set; }
+        private bool InUse { get; set; } = false;
 
-    public void UseTrain()
-    {
-        try
+        public Train(string name, int power, string type, string link)
         {
-            if (InUse.get(false))
-                InUse.set(true);
+            this.Name = name;
+            this.Power = power;
+            this.Type = type;
+            this.Link = link;
         }
-        catch
+
+        public void UseTrain()
         {
-            Console.Writeline("O trem selecionado já está em uso.");
+            if (InUse == false)
+            {
+                InUse = true;
+                return;
+            }
+            Console.WriteLine("O trem selecionado já está em uso.");
+            
         }
     }
-
 }
