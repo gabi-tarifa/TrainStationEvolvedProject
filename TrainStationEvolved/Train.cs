@@ -6,11 +6,11 @@ namespace TrainStationEvolved{
     {
         private string Name { get; set; }
         private int Power { get; set; }
-        private string Type { get; set; }
+        private Type Type { get; set; }
         private string Link { get; set; }
         private bool InUse { get; set; } = false;
 
-        public Train(string name, int power, string type, string link)
+        public Train(string name, int power, Type type, string link)
         {
             this.Name = name;
             this.Power = power;
