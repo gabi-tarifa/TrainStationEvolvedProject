@@ -30,6 +30,12 @@ The project gonna need a database, so i can save all the data for one user, but 
 It needs a definitive formula for material and gold generation, both for collect and delivery functions;
 Find a way to connect the 3D models found on web to unity, so i can start modeling them. 
 
+Managed to connect the C# code onto Unity’s Engine, so i can test the 3d models and i can manure them;
+
 ## Note
 
 I know the README is incomplete and etc, and the code is in its starter and simplest composition, and someday soon it'll be improved :)
+
+# Update
+
+The project is frozen for an undetermined time, i just need to finish HS and my ending-grade-work (ish (??)) so i can move on the game development.
